@@ -5,3 +5,4 @@ Liste mit dinge:
 3. Eis
 4. Auto
 5. Tastatur
+6. Monitor
